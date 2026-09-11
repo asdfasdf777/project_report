@@ -1,0 +1,10 @@
+{
+    "model": "context_bert",
+    "num_labels": 20,
+    "metrics": {
+        "macro_f1": 0.06538461538461537,
+        "micro_f1": 0.26262626262626265,
+        "macro_auc_pr": 0.2610207700712921,
+        "micro_auc_pr": 0.37632642962320206
+    }
+}

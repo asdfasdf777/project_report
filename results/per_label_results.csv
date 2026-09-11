@@ -1,0 +1,101 @@
+Model,Label,Prevalence,F1,AUC-PR
+Majority,experimental,0.22,0.0,0.22
+Majority,electronic,0.18,0.0,0.18
+Majority,noise,0.12,0.0,0.12
+Majority,instrumental,0.02,0.0,0.02
+Majority,idm,0.0,0.0,0.0
+Majority,all styles experimental,0.0,0.0,0.0
+Majority,ambient,0.3,0.0,0.3
+Majority,improvisation,0.04,0.0,0.04
+Majority,industrial,0.0,0.0,0.0
+Majority,not normal music,0.0,0.0,0.0
+Majority,glitch,0.0,0.0,0.0
+Majority,jazz,0.02,0.0,0.02
+Majority,electronica,0.24,0.0,0.24
+Majority,techno,0.0,0.0,0.0
+Majority,rock,0.04,0.0,0.04
+Majority,folk,0.2,0.0,0.2
+Majority,electro,0.1,0.0,0.1
+Majority,classical,0.02,0.0,0.02
+Majority,downtempo,0.02,0.0,0.02
+Majority,compilation,0.04,0.0,0.04
+CNN,experimental,0.22,0.0,0.29796777296777294
+CNN,electronic,0.18,0.0,0.4275181681803074
+CNN,noise,0.12,0.0,0.29611146807548605
+CNN,instrumental,0.02,0.13333333333333333,0.25
+CNN,idm,0.0,0.0,0.0
+CNN,all styles experimental,0.0,0.0,0.0
+CNN,ambient,0.3,0.0,0.39176642386434135
+CNN,improvisation,0.04,0.0,0.03794326241134752
+CNN,industrial,0.0,0.0,0.0
+CNN,not normal music,0.0,0.0,0.0
+CNN,glitch,0.0,0.0,0.0
+CNN,jazz,0.02,0.0,0.037037037037037035
+CNN,electronica,0.24,0.0,0.3676225015651239
+CNN,techno,0.0,0.0,0.0
+CNN,rock,0.04,0.0,0.1553030303030303
+CNN,folk,0.2,0.0,0.28720719666023486
+CNN,electro,0.1,0.0,0.13151093807934744
+CNN,classical,0.02,0.0,0.02127659574468085
+CNN,downtempo,0.02,0.0,0.04
+CNN,compilation,0.04,0.0,0.052526595744680854
+GNN,experimental,0.22,0.14285714285714285,0.27573518157980326
+GNN,electronic,0.18,0.42105263157894735,0.5232428279196013
+GNN,noise,0.12,0.2,0.38923483923483926
+GNN,instrumental,0.02,0.0,1.0
+GNN,idm,0.0,0.0,0.0
+GNN,all styles experimental,0.0,0.0,0.0
+GNN,ambient,0.3,0.10526315789473684,0.2657960246116865
+GNN,improvisation,0.04,0.0,0.18055555555555555
+GNN,industrial,0.0,0.0,0.0
+GNN,not normal music,0.0,0.0,0.0
+GNN,glitch,0.0,0.0,0.0
+GNN,jazz,0.02,0.0,1.0
+GNN,electronica,0.24,0.0,0.7707626758468273
+GNN,techno,0.0,0.0,0.0
+GNN,rock,0.04,0.0,0.0506883604505632
+GNN,folk,0.2,0.0,0.23243419828412923
+GNN,electro,0.1,0.0,0.4976190476190476
+GNN,classical,0.02,0.0,0.08333333333333333
+GNN,downtempo,0.02,0.0,0.058823529411764705
+GNN,compilation,0.04,0.0,0.18055555555555555
+Context BERT,experimental,0.22,1.0,1.0
+Context BERT,electronic,0.18,0.15384615384615385,0.3391198614372437
+Context BERT,noise,0.12,0.0,0.295237903535005
+Context BERT,instrumental,0.02,0.0,0.047619047619047616
+Context BERT,idm,0.0,0.0,0.0
+Context BERT,all styles experimental,0.0,0.0,0.0
+Context BERT,ambient,0.3,0.0,0.6400342798963489
+Context BERT,improvisation,0.04,0.0,0.08888888888888888
+Context BERT,industrial,0.0,0.0,0.0
+Context BERT,not normal music,0.0,0.0,0.0
+Context BERT,glitch,0.0,0.0,0.0
+Context BERT,jazz,0.02,0.0,0.058823529411764705
+Context BERT,electronica,0.24,0.15384615384615385,0.7623769748769751
+Context BERT,techno,0.0,0.0,0.0
+Context BERT,rock,0.04,0.0,0.19642857142857142
+Context BERT,folk,0.2,0.0,0.5125702075702075
+Context BERT,electro,0.1,0.0,0.22632700632700634
+Context BERT,classical,0.02,0.0,0.03125
+Context BERT,downtempo,0.02,0.0,0.021739130434782608
+Context BERT,compilation,0.04,0.0,1.0
+Fusion,experimental,0.22,0.625,0.9617715617715619
+Fusion,electronic,0.18,0.2,0.3552413019079686
+Fusion,noise,0.12,0.0,0.4669260169260169
+Fusion,instrumental,0.02,0.0,0.038461538461538464
+Fusion,idm,0.0,0.0,0.0
+Fusion,all styles experimental,0.0,0.0,0.0
+Fusion,ambient,0.3,0.0,0.5315431227387749
+Fusion,improvisation,0.04,0.0,0.043478260869565216
+Fusion,industrial,0.0,0.0,0.0
+Fusion,not normal music,0.0,0.0,0.0
+Fusion,glitch,0.0,0.0,0.0
+Fusion,jazz,0.02,0.0,0.037037037037037035
+Fusion,electronica,0.24,0.15384615384615385,0.6395967458467459
+Fusion,techno,0.0,0.0,0.0
+Fusion,rock,0.04,0.0,0.03347171769590036
+Fusion,folk,0.2,0.0,0.7164024864024865
+Fusion,electro,0.1,0.0,0.19569271308401745
+Fusion,classical,0.02,0.0,0.02702702702702703
+Fusion,downtempo,0.02,0.0,0.024390243902439025
+Fusion,compilation,0.04,0.0,1.0

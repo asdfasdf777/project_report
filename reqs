@@ -1,0 +1,7 @@
+import pandas as pd
+
+# Load the CSV file
+df = pd.read_csv('raw_tracks.csv')
+
+# View the first 5 rows of data
+print(df.head())
